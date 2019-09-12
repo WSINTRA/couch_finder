@@ -3,7 +3,8 @@
 ##Getting started
 
 1. In order to run the app make sure you are in the root directory.
-2. run 'ruby bin/run.rb'
+2. run $: bundle install
+2. run $: ruby bin/run.rb
 3. The app will present you with a list of possible commands.
 
 Overview.
